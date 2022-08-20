@@ -13,24 +13,15 @@ To address the altered grades, the purpose of this analysis was to replace all m
 Corrected
 ![corrected_district_summary](Resources/corrected_district_summary.JPG)
 
-Not Corrected
-![uncorrected_district_summary](Resources/uncorrected_district_summary.JPG)
-
 - In the per-school summary, the % Passing Math, % Passing Reading, and % Overall Passing, were slightly higher before correction for Thomas High School. The other schools were unaffected by the correction.
 
 Corrected
 ![corrected_per_school_summary](Resources/corrected_per_school_summary.JPG)
 
-Not Corrected
-![uncorrected_per_school_summary](Resources/uncorrected_per_school_summary.JPG)
-
 - Before and after the correction, Thomas High School is still ranked second compared to the other schools.
 
 Corrected
 ![corrected_topfive](Resources/corrected_topfive.JPG)
-
-Not Corrected
-![uncorrected_topfive](Resources/uncorrected_top5.JPG)
 
 - For math and reading scores by grade, the uncorrected analysis shows grades for the Thomas High School ninth graders, and the corrected analysis shows "nan" for the Thomas High School ninth graders.
 
@@ -38,17 +29,9 @@ Corrected Math
 
 ![corrected_math_score](Resources/corrected_math_scores.JPG)
 
-Not Corrected Math
-
-![uncorrected_math_score](Resources/uncorrected_math_scores.JPG)
-
 Corrected Reading
 
 ![corrected_reading_score](Resources/corrected_reading_scores.JPG)
-
-Not Corrected Reading
-
-![uncorrected_reading_score](Resources/uncorrected_reading_scores.JPG)
 
 - The correction had no effect on the scores by school spending.
 
@@ -56,29 +39,17 @@ Corrected
 
 ![corrected_schoolspending](Resources/corrected_schoolspending.JPG)
 
-Not Corrected 
-
-![uncorrected_schoolspending](Resources/uncorrected_schoolspending.JPG)
-
 - The correction had no effect on the scores by school size.
 
 Corrected 
 
 ![corrected_schoolsize](Resources/corrected_schoolsize.JPG)
 
-Not Corrected 
-
-![uncorrected_schoolsize](Resources/uncorrected_schoolsize.JPG)
-
 - The correction had no effect on the scores by school type.
   
 Corrected 
 
 ![corrected_schooltype](Resources/corrected_schooltype.JPG)
-
-Not Corrected 
-
-![uncorrected_schooltype](Resources/uncorrected_schooltype.JPG)
 
 ## Summary
 
