@@ -9,13 +9,11 @@ To address the altered grades, the purpose of this analysis was to replace all m
 
 ## Results
 - The District Summary is not affected after rounding values.
-  
-Corrected
+ 
 ![corrected_district_summary](Resources/corrected_district_summary.JPG)
 
 - In the per-school summary, the % Passing Math, % Passing Reading, and % Overall Passing, were slightly higher before correction for Thomas High School. The other schools were unaffected by the correction.
 
-Corrected
 ![corrected_per_school_summary](Resources/corrected_per_school_summary.JPG)
 
 - Before and after the correction, Thomas High School is still ranked second compared to the other schools.
@@ -33,21 +31,15 @@ Corrected Reading
 
 ![corrected_reading_score](Resources/corrected_reading_scores.JPG)
 
-- The correction had no effect on the scores by school spending.
-
-Corrected 
+- The correction had no effect on the scores by school spending. 
 
 ![corrected_schoolspending](Resources/corrected_schoolspending.JPG)
 
 - The correction had no effect on the scores by school size.
 
-Corrected 
-
 ![corrected_schoolsize](Resources/corrected_schoolsize.JPG)
 
-- The correction had no effect on the scores by school type.
-  
-Corrected 
+- The correction had no effect on the scores by school type. 
 
 ![corrected_schooltype](Resources/corrected_schooltype.JPG)
 
